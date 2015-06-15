@@ -1,3 +1,6 @@
 [submodule "With-Android"]
 	path = With-Android
 	url = https://github.com/YoonSung/With-Android.git
+[submodule "With-Server"]
+	path = With-Server
+	url = https://github.com/YoonSung/With-Server.git
